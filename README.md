@@ -34,24 +34,27 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 ### Figure -01 difference between P-P , joint and linear interpolation 
 
-## Program:
+## Robot movements :
+![image](https://user-images.githubusercontent.com/75235167/206198147-5899235a-355c-4b49-a41a-2ffcf904b5c1.png)
+
 ![image](https://user-images.githubusercontent.com/75235167/206196691-372cae70-bac0-4f6c-aee0-9d4874964aeb.png)
+
 ![image](https://user-images.githubusercontent.com/75235167/206196760-bca4954a-3b7a-4419-b4a6-e727cc68d113.png)
+
 ![image](https://user-images.githubusercontent.com/75235167/206196835-ea000c38-34c4-4111-812d-2d38b5bb70b9.png)
+
 ![image](https://user-images.githubusercontent.com/75235167/206196892-4c320441-7727-40b9-b4d2-4085e0135d90.png)
+
 ![image](https://user-images.githubusercontent.com/75235167/206196953-ce0069d7-1672-4fcd-a57a-3223f058dffe.png)
 
-### Linear Interpolation
 ![image](https://user-images.githubusercontent.com/75235167/206197040-c8ffe16b-1e44-45b1-a856-22efd029dba7.png)
 
-### Circular Interpolation
 ![image](https://user-images.githubusercontent.com/75235167/206197149-dfc83880-3744-434d-97eb-531d495860e5.png)
 
 ## output
-### Linear Interpolation:
+
 ![image](https://user-images.githubusercontent.com/75235167/206197237-92b1f7c7-e929-4bcf-85be-a34dff7eca68.png)
 
-### Circular Interpolation:
 ![image](https://user-images.githubusercontent.com/75235167/206197402-fa5ee1ea-2169-4ec7-9b9d-edaa1a9cc938.png)
 
 ### Results 
